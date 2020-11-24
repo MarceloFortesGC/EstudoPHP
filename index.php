@@ -19,8 +19,10 @@
             <li><a href="while-do-while.php">4. While and Do While PHP</a></li>
             <li><a href="arrays.php">5. Arrays</a></li>
             <li><a href="string-manipulate.php">6. String Manipulate</a></li>
+            <li><a href="7.date-time-manip.php">7. Date and Time Manipulation</a></li>
         </ul>
     <br />
+    <hr />
     <br />
     <?php 
         //PRINTING HTML
@@ -28,27 +30,31 @@
         echo '<h2>Hello PHP</h2>'; //Printing any string
         echo '<h3>Another Text<h3/>';
         echo '<br />';
-    ?>
+        echo '<hr />';
+        ?>
 
-    <?php
+<?php
         //VARIABLES
         $name = 'Marcelo Fortes';
         $age = '21';
-
+        
         //EXERCISE 1
         echo '<h1>Exercise 1</h1>';
         echo 'Hi, my name is ', $name;
         echo '<h3>Hello! My name is '.$name.'. Nice to meet you!<h3/>';
+        echo '<hr />';
         echo '<br />';
         
         //EXERCISE 2
         echo '<h1>Exercise 2</h1>';
         echo 'My name is '. $name. ' and I am '. $age. ' years old';
+        echo '<hr />';
         echo '<br />';
         
         //EXERCISE 3
         echo '<h1>Exercise 3</h1>';
         echo "My name is $name and I am $age years old";
+        echo '<hr />';
         ?>
 
 </body>
