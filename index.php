@@ -7,7 +7,8 @@
 </head>
 
 <body>
-    <h1>Hello World</h1>
+    <h1>PHP Primer Index</h1>
+    <h2>Hello World</h2>
     <br />
 
     <?php 
@@ -40,7 +41,8 @@
         ?>
 
     <ul>
-        <li><a href="ifstatement.php">If Statement PHP</a></li>
+        <li><a href="if-statement.php">If Statement PHP</a></li>
+        <li><a href="switch-statement.php">Switch Statement PHP</a></li>
     </ul>
 
 </body>
