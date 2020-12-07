@@ -20,6 +20,7 @@
             <li><a href="arrays.php">5. Arrays</a></li>
             <li><a href="string-manipulate.php">6. String Manipulate</a></li>
             <li><a href="7.date-time-manip.php">7. Date and Time Manipulation</a></li>
+            <li><a href="8.functions.php">7. Functions</a></li>
         </ul>
     <br />
     <hr />
